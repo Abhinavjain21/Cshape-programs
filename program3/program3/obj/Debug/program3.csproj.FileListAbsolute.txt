@@ -1,0 +1,7 @@
+C:\Users\mci\source\repos\program3\program3\obj\Debug\program3.csproj.AssemblyReference.cache
+C:\Users\mci\source\repos\program3\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
+C:\Users\mci\source\repos\program3\program3\bin\Debug\program3.exe.config
+C:\Users\mci\source\repos\program3\program3\bin\Debug\program3.exe
+C:\Users\mci\source\repos\program3\program3\bin\Debug\program3.pdb
+C:\Users\mci\source\repos\program3\program3\obj\Debug\program3.exe
+C:\Users\mci\source\repos\program3\program3\obj\Debug\program3.pdb
