@@ -1,0 +1,7 @@
+C:\Users\mci\source\repos\program9\program9\bin\Debug\program9.exe.config
+C:\Users\mci\source\repos\program9\program9\bin\Debug\program9.exe
+C:\Users\mci\source\repos\program9\program9\bin\Debug\program9.pdb
+C:\Users\mci\source\repos\program9\program9\obj\Debug\program9.csproj.AssemblyReference.cache
+C:\Users\mci\source\repos\program9\program9\obj\Debug\program9.csproj.CoreCompileInputs.cache
+C:\Users\mci\source\repos\program9\program9\obj\Debug\program9.exe
+C:\Users\mci\source\repos\program9\program9\obj\Debug\program9.pdb
