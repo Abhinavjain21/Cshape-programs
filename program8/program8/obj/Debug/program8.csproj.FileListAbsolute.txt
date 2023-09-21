@@ -1,0 +1,7 @@
+C:\Users\mci\source\repos\program8\program8\bin\Debug\program8.exe.config
+C:\Users\mci\source\repos\program8\program8\bin\Debug\program8.exe
+C:\Users\mci\source\repos\program8\program8\bin\Debug\program8.pdb
+C:\Users\mci\source\repos\program8\program8\obj\Debug\program8.csproj.AssemblyReference.cache
+C:\Users\mci\source\repos\program8\program8\obj\Debug\program8.csproj.CoreCompileInputs.cache
+C:\Users\mci\source\repos\program8\program8\obj\Debug\program8.exe
+C:\Users\mci\source\repos\program8\program8\obj\Debug\program8.pdb
